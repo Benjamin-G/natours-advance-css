@@ -1,0 +1,12 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Benjamin-G/natours-advance-css.git",
+  "author": "Benjamin Geyer <brgeyer49@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  }
+}
